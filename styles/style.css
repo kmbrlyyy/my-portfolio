@@ -244,10 +244,11 @@ section {
 .main-title h2 .bg-text {
   position: absolute;
   top: 50%;
+  left: 50%;
   color: var(--color-grey-5);
   transition: all 0.4s ease-in-out;
   z-index: -1;
   transform: translate(-50%, -50%);
-  font-weight: 800;
   font-size: 6.3rem;
+  font-weight: 800;
 }/*# sourceMappingURL=style.css.map */
